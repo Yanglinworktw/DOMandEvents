@@ -1,4 +1,4 @@
-# JS5 Debrief
+# DOM and Event Handlers Exercises
 
 These eight exercises can be completed in any order. You are not expected to complete them all in this session. Choose which ones you'd like to attempt.
 
