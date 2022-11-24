@@ -7,7 +7,7 @@ function functionName() {
  
 }
 // Call the event with an event listener
-elementName.addEventListener("onclick", functionName);
+// elementName.addEventListener("onclick", functionName);
 
 // 1. DISPLAY NAME
 // Click the button to display your name in the box
